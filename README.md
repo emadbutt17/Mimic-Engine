@@ -1,6 +1,6 @@
 # Mimic Engine
 # How to Use
-First Download both the game folder and the renpy SDK folder from the repo. You will need to use renpy 3.5 for this project. 
+First Download both the game folder and the renpy SDK folder from the repo. You will need to use renpy 7.3.5 for this project. 
 
 Launch the renpy executable, either for Mac or Windows and select the Mimic Engine project. 
 
