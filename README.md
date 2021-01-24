@@ -36,6 +36,6 @@ Unfortunately, I wasn't able to use traditional machine learning tools due to be
 # Accomplishments
 I'm glad I got at least the game engine and visuals working. I can tweak them further to look better and optimize the speed of the game, but my main concern will be to develop my chess AI through more traditional machine learning models.
 
-# What's next for Adaptive Chess Engine
+# What's next for Mimic Engine
 
 I hope to use the traditional training and testing methods of machine learning after having built the alpha version of my chess engine. I hope to make the visuals a lot cleaner and iron out some bugs that may be present.
